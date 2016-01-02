@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Virtualshop]]></title>
+        <description><![CDATA[Virtualshop]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 02 Jan 2016 03:41:28 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>7 gekke toepassingen voor Oculus Rift </p>]]></description>
+            <link>undefined3f6e222b-4c7f-487c-bee3-1baaf574ed5b/index.html</link>
+            <guid isPermaLink="false">3f6e222b-4c7f-487c-bee3-1baaf574ed5b</guid>
+            <pubDate>Sat, 02 Jan 2016 03:41:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
