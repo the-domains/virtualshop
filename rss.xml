@@ -4,21 +4,21 @@
         <description><![CDATA[Virtual Shop Online]]></description>
         <link>https://thegrid.ai/virtualshop/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jan 2016 03:58:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jan 2016 03:59:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/virtualshop/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Intro Menu]]></title>
+            <description><![CDATA[<article><h1>Intro Menu</h1><p>the place for all your Virtual equipment, gadgets, news and games</p></article>]]></description>
+            <link>https://thegrid.ai/virtualshop/3f6e222b-4c7f-487c-bee3-1baaf574ed5b/index.html</link>
+            <guid isPermaLink="false">3f6e222b-4c7f-487c-bee3-1baaf574ed5b</guid>
+            <pubDate>Sat, 02 Jan 2016 03:59:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/36bf741c-c86b-4be2-8412-764d742c5493.jpg">]]></description>
             <link>https://thegrid.ai/virtualshop/f795ad07-cac1-49df-822d-4ac3c5075638/index.html</link>
             <guid isPermaLink="false">f795ad07-cac1-49df-822d-4ac3c5075638</guid>
             <pubDate>Sat, 02 Jan 2016 03:58:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>7 gekke toepassingen voor Oculus Rift </p>]]></description>
-            <link>https://thegrid.ai/virtualshop/3f6e222b-4c7f-487c-bee3-1baaf574ed5b/index.html</link>
-            <guid isPermaLink="false">3f6e222b-4c7f-487c-bee3-1baaf574ed5b</guid>
-            <pubDate>Sat, 02 Jan 2016 03:41:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
