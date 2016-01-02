@@ -1,6 +1,6 @@
 name: Virtualshop
 favicon: null
-layout_spectrum: 0.5271335274446756
+layout_spectrum: 0.86146
 typography_spectrum: 0.2851276199799031
 title: Virtual Shop Online
 cta:
@@ -22,8 +22,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.24948580982163548
-  lightness: 0.8495011625345796
-  saturation: 0.7510828794911504
-  rhythmicContrast: 0.5045220837928355
+  brandStrength: 0.8125
+  lightness: 1
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
