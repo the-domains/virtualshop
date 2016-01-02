@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Virtualshop]]></title>
-        <description><![CDATA[Virtualshop]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Virtual Shop Online]]></title>
+        <description><![CDATA[Virtual Shop Online]]></description>
+        <link>https://thegrid.ai/virtualshop/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jan 2016 03:41:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Jan 2016 03:58:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/virtualshop/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/36bf741c-c86b-4be2-8412-764d742c5493.jpg">]]></description>
+            <link>https://thegrid.ai/virtualshop/f795ad07-cac1-49df-822d-4ac3c5075638/index.html</link>
+            <guid isPermaLink="false">f795ad07-cac1-49df-822d-4ac3c5075638</guid>
+            <pubDate>Sat, 02 Jan 2016 03:58:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>7 gekke toepassingen voor Oculus Rift </p>]]></description>
-            <link>undefined3f6e222b-4c7f-487c-bee3-1baaf574ed5b/index.html</link>
+            <link>https://thegrid.ai/virtualshop/3f6e222b-4c7f-487c-bee3-1baaf574ed5b/index.html</link>
             <guid isPermaLink="false">3f6e222b-4c7f-487c-bee3-1baaf574ed5b</guid>
             <pubDate>Sat, 02 Jan 2016 03:41:22 GMT</pubDate>
         </item>
